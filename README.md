@@ -1,11 +1,11 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 This is the place where I opensource stuff and break things :rofl:
 
-- 🔭 I’m currently working on my Portfolio
+- 🔭 I’m currently working on something Cool.
 - 🌱 I’m currently learning **Jest, React Native, C# .net** 
 - 💬 Ask me about anything related to **JavaScript, TypeScript** 
 - 📫 How to reach me **soulremix-dev@pm.me** 
-- 👨‍💻 Read more about my projects at [placeholder.com](placeholder.com) 
+- 👨‍💻 Read more about my projects at [https://soul-remix.netlify.app/](https://soul-remix.netlify.app/) 
 - ⚡ Fun fact **I &#10084; &#128054;s**
 
 
