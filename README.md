@@ -2,7 +2,7 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something Cool.
-- 🌱 I’m currently learning **Jest, React Native, C# .net** 
+- 🌱 I’m currently learning **C# .net** 
 - 💬 Ask me about anything related to **JavaScript, TypeScript** 
 - 📫 How to reach me **soulremix-dev@pm.me** 
 - 👨‍💻 Read more about my projects at [https://soul-remix.netlify.app/](https://soul-remix.netlify.app/) 
@@ -68,6 +68,14 @@ This is the place where I opensource stuff and break things :rofl:
         height="40"
       />
     </a>
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+      <img 
+        src="https://reactnative.dev/img/header_logo.svg" 
+        alt="reactnative" 
+        width="40" 
+        height="40"
+       /> 
+    </a>
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
@@ -105,6 +113,14 @@ This is the place where I opensource stuff and break things :rofl:
         src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
         alt="tailwind"
         width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
+      <img 
+        src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" 
+        alt="jest" 
+        width="40" 
         height="40"
       />
     </a>
