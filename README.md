@@ -2,7 +2,7 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something Cool.
-- 🌱 I’m currently learning **C# .net** 
+- 🌱 I’m currently learning Rust.
 - 💬 Ask me about anything related to **JavaScript, TypeScript** 
 - 📫 How to reach me **soulremix-dev@pm.me** 
 - 👨‍💻 Read more about my projects at [https://soul-remix.netlify.app/](https://soul-remix.netlify.app/) 
@@ -210,15 +210,5 @@ This is the place where I opensource stuff and break things :rofl:
     </a>
   </p>
 </details>
-
-<hr>
-
-<p align="center">
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=soul-remix&show_icons=true&locale=en"
-    alt="soul-remix"
-  />
-</p>
 
 
