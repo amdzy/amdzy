@@ -3,7 +3,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something Cool.
 - 🌱 I’m currently learning Rust.
-- 💬 Ask me about anything related to **JavaScript, TypeScript** 
+- 💬 Ask me about anything related to **C#, JavaScript, TypeScript** 
 - 📫 How to reach me **soulremix-dev@pm.me** 
 - 👨‍💻 Read more about my projects at [https://soul-remix.netlify.app/](https://soul-remix.netlify.app/) 
 - ⚡ Fun fact **I &#10084; &#128054;s**
@@ -13,18 +13,14 @@ This is the place where I opensource stuff and break things :rofl:
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br>
   <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <a
+      href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://learn.microsoft.com/en-us/dotnet/csharp/)"
+      target="_blank"
+      rel="noreferrer"
+    >
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="css3"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+        alt="C#"
         width="40"
         height="40"
       />
@@ -49,10 +45,34 @@ This is the place where I opensource stuff and break things :rofl:
         height="40"
       />
     </a>
+     <a href="https://www.java.com//" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
+        alt="Java"
+        width="40"
+        height="40"
+      />
+    </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
         alt="python"
+        width="40"
+        height="40"
+      />
+    </a>
+     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+        alt="html5"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+        alt="css3"
         width="40"
         height="40"
       />
@@ -100,14 +120,6 @@ This is the place where I opensource stuff and break things :rofl:
         height="40"
       />
     </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-        alt="sass"
-        width="40"
-        height="40"
-      />
-    </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
@@ -126,6 +138,14 @@ This is the place where I opensource stuff and break things :rofl:
     </a>
   </p>
   <p>
+     <a href="https://dotnet.microsoft.com/en-us/download" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"
+        alt=".Net"
+        width="40"
+        height="40"
+      />
+    </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -162,6 +182,22 @@ This is the place where I opensource stuff and break things :rofl:
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
         alt="mongodb"
+        width="40"
+        height="40"
+      />
+    </a>
+     <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg"
+        alt="Azure"
+        width="40"
+        height="40"
+      />
+    </a>
+     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg"
+        alt="Fire base"
         width="40"
         height="40"
       />
