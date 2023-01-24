@@ -3,10 +3,12 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something Cool.
 - 🌱 I’m currently learning Rust.
-- 💬 Ask me about anything related to **C#, JavaScript, TypeScript** 
+- 💬 Ask me about anything related to **JavaScript, TypeScript, C#** 
 - 📫 How to reach me **soulremix-dev@pm.me** 
 - 👨‍💻 Read more about my projects at [https://soul-remix.netlify.app/](https://soul-remix.netlify.app/) 
 - ⚡ Fun fact **I &#10084; &#128054;s**
+
+Disclaimer: Some of my projects are currently down because of the recent heroku free acount changes, I'm working on moving to another hoster
 
 
 <details>
