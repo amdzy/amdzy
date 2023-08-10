@@ -3,30 +3,15 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something Cool.
 - 🌱 I’m currently learning **Rust**.
-- 💬 Ask me about anything related to **JavaScript, TypeScript, C#** 
+- 💬 Ask me about anything related to **JavaScript, TypeScript, Go** 
 - 📫 How to reach me **soulremix-dev@pm.me** 
 - 👨‍💻 Read more about my projects at [https://soul-remix.netlify.app/](https://soul-remix.netlify.app/) 
 - ⚡ Fun fact **I &#10084; &#128054;s**
-
-Disclaimer: Some of my projects are currently down because of the recent heroku free acount changes, I'm working on moving to another hoster
-
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br>
   <p align="left">
-    <a
-      href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://learn.microsoft.com/en-us/dotnet/csharp/)"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-        alt="C#"
-        width="40"
-        height="40"
-      />
-    </a>
     <a
       href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
       target="_blank"
@@ -63,18 +48,30 @@ Disclaimer: Some of my projects are currently down because of the recent heroku 
         height="40"
       />
     </a>
-    <a href="https://www.java.com//" target="_blank" rel="noreferrer">
+    <a href="https://go.dev/" target="_blank" rel="noreferrer">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
-        alt="Java"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg"
+        alt="golang"
         width="40"
         height="40"
       />
     </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+     <a
+      href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://learn.microsoft.com/en-us/dotnet/csharp/)"
+      target="_blank"
+      rel="noreferrer"
+    >
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-        alt="python"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+        alt="C#"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://www.java.com//" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
+        alt="Java"
         width="40"
         height="40"
       />
@@ -140,14 +137,6 @@ Disclaimer: Some of my projects are currently down because of the recent heroku 
     </a>
   </p>
   <p>
-     <a href="https://dotnet.microsoft.com/en-us/download" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"
-        alt=".Net"
-        width="40"
-        height="40"
-      />
-    </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -172,6 +161,22 @@ Disclaimer: Some of my projects are currently down because of the recent heroku 
         height="40"
       />
     </a>
+    <a href="https://github.com/gin-gonic/gin" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"
+        alt="Gin"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://dotnet.microsoft.com/en-us" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"
+        alt=".Net"
+        width="40"
+        height="40"
+      />
+    </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
@@ -184,14 +189,6 @@ Disclaimer: Some of my projects are currently down because of the recent heroku 
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
         alt="mongodb"
-        width="40"
-        height="40"
-      />
-    </a>
-     <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg"
-        alt="Azure"
         width="40"
         height="40"
       />
