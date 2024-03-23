@@ -57,7 +57,7 @@ This is the place where I opensource stuff and break things :rofl:
       />
     </a>
      <a
-      href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://learn.microsoft.com/en-us/dotnet/csharp/)"
+      href="https://learn.microsoft.com/en-us/dotnet/csharp/"
       target="_blank"
       rel="noreferrer"
     >
@@ -68,10 +68,10 @@ This is the place where I opensource stuff and break things :rofl:
         height="40"
       />
     </a>
-    <a href="https://www.java.com//" target="_blank" rel="noreferrer">
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
-        alt="Java"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+        alt="Python"
         width="40"
         height="40"
       />
@@ -107,6 +107,14 @@ This is the place where I opensource stuff and break things :rofl:
       <img
         src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
         alt="nextjs"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://astro.build" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg"
+        alt="Astro"
         width="40"
         height="40"
       />
@@ -155,7 +163,7 @@ This is the place where I opensource stuff and break things :rofl:
     </a>
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"
         alt="nestjs"
         width="40"
         height="40"
@@ -177,6 +185,14 @@ This is the place where I opensource stuff and break things :rofl:
         height="40"
       />
     </a>
+    <a href="https://grpc.io/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-plain.svg"
+        alt="GRPC"
+        width="40"
+        height="40"
+      />
+    </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
@@ -193,10 +209,18 @@ This is the place where I opensource stuff and break things :rofl:
         height="40"
       />
     </a>
-     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg"
-        alt="Fire base"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+        alt="AWS"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://portal.azure.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"
+        alt="Azure"
         width="40"
         height="40"
       />
