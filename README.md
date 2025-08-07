@@ -4,8 +4,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 I’m currently working on something Cool.
 - 🌱 I’m currently learning **Rust**.
 - 💬 Ask me about anything related to **JavaScript, TypeScript, Go** 
-- 📫 How to reach me **amdzy@proton.me** 
-- 👨‍💻 Read more about my projects at [https://amdzy.netlify.app/](https://amdzy.netlify.app/) 
+- 📫 How to reach me **zabadany.dev@gmail.com**  
 - ⚡ Fun fact **I &#10084; &#128054;s**
 
 <details>
@@ -52,18 +51,6 @@ This is the place where I opensource stuff and break things :rofl:
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg"
         alt="golang"
-        width="40"
-        height="40"
-      />
-    </a>
-     <a
-      href="https://learn.microsoft.com/en-us/dotnet/csharp/"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-        alt="C#"
         width="40"
         height="40"
       />
@@ -173,14 +160,6 @@ This is the place where I opensource stuff and break things :rofl:
       <img
         src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"
         alt="Gin"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://dotnet.microsoft.com/en-us" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"
-        alt=".Net"
         width="40"
         height="40"
       />
