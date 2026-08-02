@@ -1,23 +1,42 @@
-### Hi there <a href="https://amdzy.netlify.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-This is the place where I opensource stuff and break things :rofl:
+# Hey, There 👋
 
-- 🔭 I’m currently working on something Cool.
-- 🌱 I’m currently learning **Rust**.
-- 💬 Ask me about anything related to **JavaScript, TypeScript** 
-- 📫 How to reach me **zabadany.dev@gmail.com**  
-- ⚡ Fun fact **I &#10084; &#128049;s**
+I'm a Full-Stack Engineer who enjoys building scalable web applications, 
+AI-powered products, and developer tools.
 
-<details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
-  <br/>
-  
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,go,kotlin" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,materialui" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=express,nestjs,spring,postgres,mongodb,rabbitmq" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,docker,figma,linux" />
-</details>
+I spend most of my time working with **TypeScript, React, Next.js, NestJS, and Go**.
 
+### 🚀 What I build
 
+- 🤖 AI-powered applications
+- 🌐 Full-stack web applications
+- ⚙️ Backend services & microservices
+- 🛠️ Developer tools and infrastructure
+
+### 🧰 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,go,html,css" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,tailwind" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux" />
+</p>
+
+### 🌱 Currently
+
+- Learning **Rust**
+- Building something cool 👀
+- Exploring AI and developer tooling
+
+### 📫 Get in touch
+
+- 🌐 [Portfolio](https://amdzy.netlify.app/)
+- 📧 zabadany.dev@gmail.com
